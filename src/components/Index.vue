@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
     <h1> Ms AesthetiS </h1>
-  <h2> <i>photography </i> </b> </h2>
-<br><br><br>
+  <h2> <i>photography </i> </h2>
+<br/><br/>
 
 
     <h3> Social Media</h3>
@@ -31,19 +31,7 @@
     <h3> More Infos </h3>
     <ul>
       <li>
-        <a href="" target="_blank" rel="noopener"></a>
-      </li>
-      <li>
-        <a href="" target="_blank" rel="noopener"></a>
-      </li>
-      <li>
         <router-link to="/moreInfos">see</router-link>
-      </li>
-      <li>
-        <a href="" target="_blank" rel="noopener"></a>
-      </li>
-      <li>
-        <a href="" target="_blank" rel="noopener"></a>
       </li>
     </ul>
   </div>
